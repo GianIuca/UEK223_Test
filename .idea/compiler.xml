@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="coworking-space" target="17" />
+      <module name="coworking-space" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
